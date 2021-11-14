@@ -1,0 +1,21 @@
+{
+  "name": "skinripper",
+  "version": "1.0.0",
+  "description": "Rips skins from your Minecraft folder",
+  "main": "ripSkins.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "xTeal",
+  "license": "BSD-3-Clause",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NoNoTeal/skinripper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NoNoTeal/skinripper/issues"
+  },
+  "homepage": "https://github.com/NoNoTeal/skinripper#readme"
+}

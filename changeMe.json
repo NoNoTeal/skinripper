@@ -1,0 +1,10 @@
+{
+    "_comment": "THERE MUST BE A / AFTER THE MINECRAFT NAME: /minecraft/ NOT /minecraft",
+
+    "_example": "/bitch/minecraft/",
+    "_DONT do": "bitch/minecraft",
+    "_DONT do": "bitch/minecraft/",
+    "_DONT do": "/bitch/minecraft",
+
+    "dirToMCFolder": ""
+}
